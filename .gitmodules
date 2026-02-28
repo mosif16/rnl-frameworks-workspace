@@ -28,9 +28,6 @@
 [submodule "packages/rnl-gamification-core-kit"]
 	path = packages/rnl-gamification-core-kit
 	url = https://github.com/mosif16/rnl-gamification-core-kit.git
-[submodule "packages/rnl-feed-collab-kit"]
-	path = packages/rnl-feed-collab-kit
-	url = https://github.com/mosif16/rnl-feed-collab-kit.git
 [submodule "packages/rnl-monetization-kit"]
 	path = packages/rnl-monetization-kit
 	url = https://github.com/mosif16/rnl-monetization-kit.git

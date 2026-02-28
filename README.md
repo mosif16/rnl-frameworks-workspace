@@ -19,7 +19,6 @@ Each framework is an independent public GitHub repository.
 - `rnl-voice-practice-kit`
 - `rnl-coaching-kit`
 - `rnl-gamification-core-kit`
-- `rnl-feed-collab-kit`
 - `rnl-monetization-kit`
 - `rnl-study-planning-kit`
 

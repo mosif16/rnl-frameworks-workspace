@@ -31,9 +31,6 @@ frameworks:
   - name: GamificationCoreKit
     repo: https://github.com/mosif16/rnl-gamification-core-kit
     scope: "XP/streak/achievement/quest logic"
-  - name: FeedCollabKit
-    repo: https://github.com/mosif16/rnl-feed-collab-kit
-    scope: "Feed/social/fork-merge collaboration"
   - name: MonetizationKit
     repo: https://github.com/mosif16/rnl-monetization-kit
     scope: "Subscription/paywall/gating logic"
