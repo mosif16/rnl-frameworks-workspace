@@ -1,0 +1,42 @@
+version: 1
+owner: mosif16
+frameworks:
+  - name: LearningDomainKit
+    repo: https://github.com/mosif16/rnl-learning-domain-kit
+    scope: "Shared domain models"
+  - name: CoreUtilitiesKit
+    repo: https://github.com/mosif16/rnl-core-utilities-kit
+    scope: "Non-UI shared utilities"
+  - name: RAGKit
+    repo: https://github.com/mosif16/rnl-rag-kit
+    scope: "On-device RAG, embeddings, retrieval"
+  - name: SyncCoreKit
+    repo: https://github.com/mosif16/rnl-sync-core-kit
+    scope: "Local-first sync queue/protocols"
+  - name: CloudKitAdapterKit
+    repo: https://github.com/mosif16/rnl-cloudkit-adapter-kit
+    scope: "CloudKit transport adapters"
+  - name: AIGenerationKit
+    repo: https://github.com/mosif16/rnl-ai-generation-kit
+    scope: "AI lesson/flashcard/quiz/note generation"
+  - name: CaptureLiveKit
+    repo: https://github.com/mosif16/rnl-capture-live-kit
+    scope: "Recording/import/transcription/live lecture"
+  - name: VoicePracticeKit
+    repo: https://github.com/mosif16/rnl-voice-practice-kit
+    scope: "Spoken practice orchestration"
+  - name: CoachingKit
+    repo: https://github.com/mosif16/rnl-coaching-kit
+    scope: "RAG-powered teacher/coaching flows"
+  - name: GamificationCoreKit
+    repo: https://github.com/mosif16/rnl-gamification-core-kit
+    scope: "XP/streak/achievement/quest logic"
+  - name: FeedCollabKit
+    repo: https://github.com/mosif16/rnl-feed-collab-kit
+    scope: "Feed/social/fork-merge collaboration"
+  - name: MonetizationKit
+    repo: https://github.com/mosif16/rnl-monetization-kit
+    scope: "Subscription/paywall/gating logic"
+  - name: StudyPlanningKit
+    repo: https://github.com/mosif16/rnl-study-planning-kit
+    scope: "Study planning/reminders/retention"

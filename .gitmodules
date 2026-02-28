@@ -1,0 +1,39 @@
+[submodule "packages/rnl-learning-domain-kit"]
+	path = packages/rnl-learning-domain-kit
+	url = https://github.com/mosif16/rnl-learning-domain-kit.git
+[submodule "packages/rnl-core-utilities-kit"]
+	path = packages/rnl-core-utilities-kit
+	url = https://github.com/mosif16/rnl-core-utilities-kit.git
+[submodule "packages/rnl-rag-kit"]
+	path = packages/rnl-rag-kit
+	url = https://github.com/mosif16/rnl-rag-kit.git
+[submodule "packages/rnl-sync-core-kit"]
+	path = packages/rnl-sync-core-kit
+	url = https://github.com/mosif16/rnl-sync-core-kit.git
+[submodule "packages/rnl-cloudkit-adapter-kit"]
+	path = packages/rnl-cloudkit-adapter-kit
+	url = https://github.com/mosif16/rnl-cloudkit-adapter-kit.git
+[submodule "packages/rnl-ai-generation-kit"]
+	path = packages/rnl-ai-generation-kit
+	url = https://github.com/mosif16/rnl-ai-generation-kit.git
+[submodule "packages/rnl-capture-live-kit"]
+	path = packages/rnl-capture-live-kit
+	url = https://github.com/mosif16/rnl-capture-live-kit.git
+[submodule "packages/rnl-voice-practice-kit"]
+	path = packages/rnl-voice-practice-kit
+	url = https://github.com/mosif16/rnl-voice-practice-kit.git
+[submodule "packages/rnl-coaching-kit"]
+	path = packages/rnl-coaching-kit
+	url = https://github.com/mosif16/rnl-coaching-kit.git
+[submodule "packages/rnl-gamification-core-kit"]
+	path = packages/rnl-gamification-core-kit
+	url = https://github.com/mosif16/rnl-gamification-core-kit.git
+[submodule "packages/rnl-feed-collab-kit"]
+	path = packages/rnl-feed-collab-kit
+	url = https://github.com/mosif16/rnl-feed-collab-kit.git
+[submodule "packages/rnl-monetization-kit"]
+	path = packages/rnl-monetization-kit
+	url = https://github.com/mosif16/rnl-monetization-kit.git
+[submodule "packages/rnl-study-planning-kit"]
+	path = packages/rnl-study-planning-kit
+	url = https://github.com/mosif16/rnl-study-planning-kit.git
